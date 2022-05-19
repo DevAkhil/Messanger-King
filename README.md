@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://i.imgur.com/5lFIFEF.jpg" width="100%" alt="" width="200">
+  <img src="https://i.imgur.com/5lFIFEF.jpg" width="100%" alt="" >
   <br>
   Messenger King
   <br>
@@ -13,11 +13,18 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+
+<a href="https://www.youtube.com/watch?v=N9zbTkltkP0"> 
+  
+  <img src="https://i.imgur.com/kDMB3ww.jpg" width="100%"/>
+  
+  </a>
+
+
+[Watch Youtube Demo](https://www.youtube.com/watch?v=N9zbTkltkP0)
 
 ## Key Features
 
